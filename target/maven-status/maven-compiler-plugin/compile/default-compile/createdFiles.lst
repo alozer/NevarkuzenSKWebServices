@@ -1,0 +1,4 @@
+com\nevarkuzensk\webservices\ConnectionHelper.class
+com\nevarkuzensk\webservices\DbOperations.class
+com\nevarkuzensk\webservices\ApplicationConfig.class
+com\nevarkuzensk\webservices\GenericResource.class
